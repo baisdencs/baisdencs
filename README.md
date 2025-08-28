@@ -1,4 +1,7 @@
-## Hi there 👋
+## Camden Baisden
+I am a Computer Science major
+These are the projects I am working on.
+
 
 <!--
 **baisdencs/baisdencs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
