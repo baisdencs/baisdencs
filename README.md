@@ -1,5 +1,5 @@
-## Camden Baisden
-I am a Computer Science major
+## Hi I'm Camden
+This is my GitHub profile!  I am a Computer Science major.
 These are the projects I am working on.
 
 
